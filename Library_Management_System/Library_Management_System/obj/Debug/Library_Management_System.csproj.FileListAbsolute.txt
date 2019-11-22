@@ -1,0 +1,138 @@
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.exe
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.pdb
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.csprojResolveAssemblyReference.cache
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.Login.resources
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.Cache
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\Library_Management_System.exe
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\Library_Management_System.pdb
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\EntityFramework.dll
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\MaterialSkin.dll
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\MetroFramework.dll
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\EntityFramework.xml
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+F:\FInak Project-DISM\Library_Management_System - Copy\Library_Management_System\obj\Debug\Library_Management_System.Dashboard.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Dashboard.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Login.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Migrations.hello123.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Migrations.hello12new.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Migrations.dasda.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Migrations.hello12344d.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Migrations.hello.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.Cache
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.dll
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\MaterialSkin.dll
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.dll
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.xml
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+F:\FInak Project-DISM\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csprojAssemblyReference.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Dashboard.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Login.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.CopyComplete
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.xml
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Dashboard.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Login.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.Cache
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csprojAssemblyReference.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Admin_Dashboard.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Dashboard.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Login.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.CopyComplete
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe.config
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.exe
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.pdb
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.exe
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Library_Management_System.pdb
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.dll
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.xml
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Admin_Dashboard.resources
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Dashboard.resources
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Login.resources
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\Users\Farrukh AHmed\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.csproj.GenerateResource.Cache
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Xander.UI.Web.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Xander.UI.Web.pdb
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.WinForms.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.Wpf.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.pdb
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.xml
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.WinForms.pdb
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.WinForms.xml
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.Wpf.pdb
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.Wpf.xml
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Admin_Dashboard.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.DashboardHome.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.BookFrame.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.MemberFrame.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.ReturningBook.resources
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.Design.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.dll
+F:\FInal Project-DISM\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.Design.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Xander.UI.Web.dll
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\bin\Debug\Xander.UI.Web.pdb
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.BookFrame.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.DashboardHome.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.MemberFrame.resources
+C:\Users\jazze\OneDrive\Desktop\Library_Management_System\Library_Management_System\Library_Management_System\obj\Debug\Library_Management_System.Forms.ReturningBook.resources
